@@ -31,6 +31,7 @@ html {
 body {
     background: var(--light-bg);
     color: var(--charcoal-slate);
+    line-height: 25px;
 }
 
 a {
